@@ -6,7 +6,7 @@
     Shift Baru : D
 
 ## Demo 
-
+<img src='https://github.com/bagusws17/LabMobile8_BagusWijoyoseno_ShiftD/blob/master/docs/demo.gif'  height="750">
 
 ### 1. Login Page
 
